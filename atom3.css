@@ -1,0 +1,41 @@
+body{
+  background-image:url(VKTPd2M.jpg);
+  background-repeat: no repeat;
+}
+h1{ color:white;
+text-align:center;
+
+}
+h2{  color:white;
+  text-align:center;
+  font-size:150%
+}
+
+h5{
+  color:white;
+  text-align:center;
+  font-size: 150%
+}
+  p{
+    color:white;
+    text-align: center;
+    font-size: 115%;
+  }
+  .btn{border:yes;
+  color:black;
+  padding:15px 30px;
+  font-size: 20px;
+  cursor:pointer;
+  background-color: rgb(200,200,200);}
+
+  #customers tr:nth-child(even){background-color: #00FF06;}
+
+  #customers tr:hover {background-color:white;}
+
+  #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #2465;
+      color: white;
+}

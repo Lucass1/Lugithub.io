@@ -1,0 +1,64 @@
+body {
+background-image:url(VKTPd2M.jpg);
+background-repeat: no repeat;
+}
+h1{
+  color:white;
+  text-align:left;
+}
+
+
+h2{
+  color:white;
+  text-align:left;
+  font-size:150%
+}
+h4 {
+  color:white;
+  text-align:left;
+  font-size:150%
+}
+p {
+  color:white;
+  text-align:left;
+  font-size:115%;
+}
+h5{
+  color:white;
+  text-align: center;
+  font-size:170%;
+}
+
+ol{color:lightblue;
+  font-size:120%;
+  text-align:left;
+  list-style: inside;
+}
+
+.btn{border:yes;
+color:black;
+padding:15px 30px;
+font-size: 20px;
+cursor:pointer;
+background-color: rgb(200,200,200);}
+
+
+#customers {background-color:#2ECCFA;}
+
+#customers tr:hover {background-color: white;}
+
+#customers th {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: left;
+    background-color:#000000;
+    color: white;
+
+}
+
+
+p.Duurste auto{
+color:white;
+text-align: left;
+font-size: 150%;
+}
